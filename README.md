@@ -1,2 +1,3 @@
 # Smart_home
 Primarily focuses on analyzing and predicting energy consumption in smart homes using various machine learning techniques. It explores the relationship between energy consumption and several factors such as temperature, humidity, and occupancy through visualization and modeling.
+This project implements a Predictive Analytics System for smart home energy optimization, following the ML Systems Lifecycle to transform environmental and occupancy data into actionable insights. It establishes a robust Data Engineering pipeline,utilizing outlier detection and mean-based imputation is to prevent data cascades and ensure high-quality inputs for Random Forest regression models.
